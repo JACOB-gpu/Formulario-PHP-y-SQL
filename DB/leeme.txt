@@ -1,0 +1,4 @@
+"Datos_personales" se refiere a la base de datos completa.
+
+"Informacion_personal" solamente a la tabla de la base de datos
+
